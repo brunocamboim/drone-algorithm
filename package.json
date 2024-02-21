@@ -1,0 +1,20 @@
+{
+  "name": "drone-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "engines": {
+    "node": "v18.16.0"
+  },
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.6.0"
+  }
+}
